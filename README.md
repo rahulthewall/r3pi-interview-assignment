@@ -1,3 +1,7 @@
+# Project Date
+
+8th August, 2017
+
 # Project Details
 A shopping cart built with React and Typescript. The requirements are as follows:
 
